@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+.div-centralizada {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    color: white;
+}
+
+button {
+    margin: 10px; /* Ajuste a margem conforme necessário */
+}
